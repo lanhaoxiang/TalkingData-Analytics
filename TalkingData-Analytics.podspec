@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'TalkingData-Analytics'
-  s.version = '2.1.18'
+  s.version = '2.2.30'
   s.license = 'Commercial'
   s.summary = 'TalkingData analytics SDK for iOS.'
   s.homepage = 'https://www.talkingdata.net/'
